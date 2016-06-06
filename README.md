@@ -63,6 +63,7 @@
 `注：其他的表根据功能设计`
 
 **四，代码结构**
+
 ![CodeStruct](https://github.com/Entiy/AppStore/blob/master/pic/CodeStruct.png)
 
 **五，运行大致流程**
